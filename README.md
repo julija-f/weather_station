@@ -26,8 +26,8 @@ Gateway layer: This layer includes the MQTT service, which serves as a message b
 Application layer: This layer includes two components: a website and a local display on the Sense HAT's LED matrix. The webpage provides a user interface for monitoring the weather data collected by the system. The local display on the Sense HAT's LED matrix provides a real-time display of the current weather conditions, making it easy to monitor the weather at a glance. 
 
 Used programmimg languages:
-Python for Raspberry Pi
-Java Script for the webpage
+- Python for Raspberry Pi
+- Java Script for the webpage
 
 Sources: 
 https://pimylifeup.com/raspberry-pi-weather-station/
