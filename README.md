@@ -13,9 +13,9 @@ Overall, this project will create a smart weather station that provides accurate
 ## Tools, Technologies and Equipment
 
 The following equipment will be used:
-Raspberry Pi 4 computer Model B 4GB RAM
-Paspberry Pi Sense HAT
-Raspberry Pi camera module V2
+- Raspberry Pi 4 computer Model B 4GB RAM
+- Paspberry Pi Sense HAT
+- Raspberry Pi camera module V2
 
 Sensor layer: This layer includes the Sense HAT board and the Raspberry Pi camera connected to the Raspberry Pi. The Sense HAT collects various weather-related data, such as temperature, humidity, and pressure, and sends it to the processing node for further processing. Raspberry Pi camera is used to capture images of the sky and the surrounding area. The sensor layer is programmed using Python.
 
